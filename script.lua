@@ -2057,7 +2057,7 @@ newButton("Modify Arg",
         local G2L = {};
 
         -- StarterGui.Arg Modifier
-        G2L["1"] = Instance.new("ScreenGui", game.CoreGui;
+        G2L["1"] = Instance.new("ScreenGui", game.CoreGui);
         G2L["1"]["Name"] = [[Arg Modifier]];
         G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
